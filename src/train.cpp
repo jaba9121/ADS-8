@@ -1,4 +1,4 @@
-// Copyright 2021 CheginArtyom
+// Copyright 2022 NNTU-CS
 #include "train.h"
 
 Train::Train() : first(nullptr), end(nullptr) {}
